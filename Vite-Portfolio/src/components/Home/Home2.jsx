@@ -19,12 +19,11 @@ function Home2() {
               LET ME <span className='orange'> INTRODUCE </span> MYSELF
             </h1>
             <p className='home-about-body'>
-              I'm passionate about numbers and financial analysis, with extensive experience
-              in accounting and financial management 📊
+             Experienced Accountant with 7 years of expertise in financial reporting, tax compliance (including GST, TDS, and Income Tax), and audit management. Skilled in preparing balance sheets, managing accounts payable and receivable, conducting reconciliations, and generating detailed financial reports. Proficient in accounting software and committed to ensuring accuracy and regulatory compliance. Strong analytical skills, with a focus on ethical standards and effective collaboration.
               <br />
               <br />I am proficient in industry-standard tools like
               <i>
-                <b className='orange'> QuickBooks, SAP, and Excel </b>
+                <b className='orange'> Tally prime, SAP, and Excel </b>
               </i>
               <br />
               <br />
