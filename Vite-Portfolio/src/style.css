@@ -670,6 +670,19 @@ button:focus {
     padding-left: 15px !important;
   }
 }
+.react-pdf__Page.no-gap {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.react-pdf__Page.no-gap canvas,
+.react-pdf__Page.no-gap .react-pdf__Page__canvas {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block;
+}
+.react-pdf__Document {
+  gap: 0 !important;
+}
 .resume .resume-title {
   font-size: 2em;
   font-weight: 700;

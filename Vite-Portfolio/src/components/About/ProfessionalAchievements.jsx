@@ -23,7 +23,7 @@ function ProfessionalAchievements() {
     {
       year: "2021",
       items: [
-        "Chartered Accountant Certification",
+        "Accountant Certification",
         "Reduced account reconciliation time by 40%",
         "Successfully managed audit of 3 major clients"
       ]

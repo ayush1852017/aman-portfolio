@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className='orange'>Aman Zaidi </span>
             from <span className='orange'> <a className='orange' href="https://en.wikipedia.org/wiki/Gola_Gokarannath">Gola Gokaran Nath, India.</a></span>
-            <br />I am a dedicated Chartered Accountant with expertise in financial 
+            <br />I am a dedicated Accountant with expertise in financial 
             analysis, taxation, and corporate accounting,
-            <br /> with certification from the Institute of Chartered Accountants 
+            <br /> with certification from the Institute of Accountants 
             of India (ICAI) and specialized training in international accounting standards.
             <br /> I am passionate about helping businesses optimize their financial 
             operations and ensure regulatory compliance.
